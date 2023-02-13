@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raphsmart/Desktop/EPITA/2ndSemester/AI_Project_Methodology/Project/mlruns/510111486839379242/89dbd94ab7174fafa2c70956fcc3e376/artifacts
+end_time: 1676296358615
+entry_point_name: ''
+experiment_id: '510111486839379242'
+lifecycle_stage: active
+run_id: 89dbd94ab7174fafa2c70956fcc3e376
+run_name: thundering-lamb-367
+run_uuid: 89dbd94ab7174fafa2c70956fcc3e376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676296350343
+status: 3
+tags: []
+user_id: raphsmart

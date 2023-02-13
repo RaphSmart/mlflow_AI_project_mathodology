@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raphsmart/Desktop/EPITA/2ndSemester/AI_Project_Methodology/Project/mlruns/510111486839379242/a02fca371365456c871c59267fbfe3bd/artifacts
+end_time: 1676296607854
+entry_point_name: ''
+experiment_id: '510111486839379242'
+lifecycle_stage: active
+run_id: a02fca371365456c871c59267fbfe3bd
+run_name: overjoyed-lynx-183
+run_uuid: a02fca371365456c871c59267fbfe3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676296602648
+status: 3
+tags: []
+user_id: raphsmart

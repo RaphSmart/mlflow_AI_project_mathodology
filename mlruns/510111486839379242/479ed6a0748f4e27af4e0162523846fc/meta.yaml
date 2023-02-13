@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/raphsmart/Desktop/EPITA/2ndSemester/AI_Project_Methodology/Project/mlruns/510111486839379242/479ed6a0748f4e27af4e0162523846fc/artifacts
+end_time: 1676296563363
+entry_point_name: ''
+experiment_id: '510111486839379242'
+lifecycle_stage: active
+run_id: 479ed6a0748f4e27af4e0162523846fc
+run_name: tasteful-sheep-62
+run_uuid: 479ed6a0748f4e27af4e0162523846fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676296559325
+status: 3
+tags: []
+user_id: raphsmart
