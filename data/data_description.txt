@@ -1,0 +1,3 @@
+The dataset is taken from Kaggle which is used to predict the CO2 emmision of a vehicle(car) with respect to its volume and weight parameters.
+This dataset consists of 5 Columns: Car, model, Volume, Weight, CO2
+The car and model columns are not really necessary for the prediction and hence have dropped these columns while pre-processing the data.
